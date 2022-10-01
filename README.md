@@ -8,9 +8,7 @@ npm run dev
 npm run build
 ```
 
-### api
-
-一个小练习
+这是一个小练习
 
 地区 name
 新增确诊 today.confirm
